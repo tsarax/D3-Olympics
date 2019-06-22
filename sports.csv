@@ -1,0 +1,140 @@
+"Sport","id","startyear","endyear","id2"
+"Aeronautics",1,1936,1937,1
+"Alpine Skiing",1,1936,1937,2
+"Alpine Skiing",2,1948,2014,2
+"Alpinism",1,1924,1925,3
+"Alpinism",2,1932,1936,3
+"Archery",1,1900,1908,4
+"Archery",2,1920,1921,4
+"Archery",3,1972,2016,4
+"Art Competitions",1,1912,1913,5
+"Art Competitions",2,1920,1936,5
+"Art Competitions",3,1948,1949,5
+"Athletics",1,1896,1912,6
+"Athletics",2,1920,1936,6
+"Athletics",3,1948,2016,6
+"Badminton",1,1992,2016,7
+"Baseball",1,1992,2008,8
+"Basketball",1,1936,1937,9
+"Basketball",2,1948,2016,9
+"Basque Pelota",1,1900,1901,10
+"Beach Volleyball",1,1996,2016,11
+"Biathlon",1,1960,2014,12
+"Bobsleigh",1,1924,1936,13
+"Bobsleigh",2,1948,1956,13
+"Bobsleigh",3,1964,2014,13
+"Boxing",1,1904,1908,14
+"Boxing",2,1920,1936,14
+"Boxing",3,1948,2016,14
+"Canoeing",1,1936,1937,15
+"Canoeing",2,1948,2016,15
+"Cricket",1,1900,1901,16
+"Croquet",1,1900,1901,17
+"Cross Country Skiing",1,1924,1936,18
+"Cross Country Skiing",2,1948,2014,18
+"Curling",1,1924,1925,19
+"Curling",2,1998,2014,19
+"Cycling",1,1896,1912,20
+"Cycling",2,1920,1936,20
+"Cycling",3,1948,2016,20
+"Diving",1,1904,1912,21
+"Diving",2,1920,1936,21
+"Diving",3,1948,2016,21
+"Equestrianism",1,1900,1901,22
+"Equestrianism",2,1912,1913,22
+"Equestrianism",3,1920,1936,22
+"Equestrianism",4,1948,2016,22
+"Fencing",1,1896,1912,23
+"Fencing",2,1920,1936,23
+"Fencing",3,1948,2016,23
+"Figure Skating",1,1908,1909,24
+"Figure Skating",2,1920,1936,24
+"Figure Skating",3,1948,2014,24
+"Football",1,1900,1912,25
+"Football",2,1920,1928,25
+"Football",3,1936,1937,25
+"Football",4,1948,2016,25
+"Freestyle Skiing",1,1992,2014,26
+"Golf",1,1900,1904,27
+"Golf",2,2016,2017,27
+"Gymnastics",1,1896,1912,28
+"Gymnastics",2,1920,1936,28
+"Gymnastics",3,1948,2016,28
+"Handball",1,1936,1937,29
+"Handball",2,1972,2016,29
+"Hockey",1,1908,1909,30
+"Hockey",2,1920,1921,30
+"Hockey",3,1928,1936,30
+"Hockey",4,1948,2016,30
+"Ice Hockey",1,1920,1936,31
+"Ice Hockey",2,1948,2014,31
+"Jeu De Paume",1,1908,1909,32
+"Judo",1,1964,1965,33
+"Judo",2,1972,2016,33
+"Lacrosse",1,1904,1908,34
+"Luge",1,1964,2014,35
+"Military Ski Patrol",1,1924,1925,36
+"Modern Pentathlon",1,1912,1913,37
+"Modern Pentathlon",2,1920,1936,37
+"Modern Pentathlon",3,1948,2016,37
+"Motorboating",1,1908,1909,38
+"Nordic Combined",1,1924,1936,39
+"Nordic Combined",2,1948,2014,39
+"Polo",1,1900,1901,40
+"Polo",2,1908,1909,40
+"Polo",3,1920,1924,40
+"Polo",4,1936,1937,40
+"Racquets",1,1908,1909,41
+"Rhythmic Gymnastics",1,1984,2016,42
+"Roque",1,1904,1905,43
+"Rowing",1,1900,1912,44
+"Rowing",2,1920,1936,44
+"Rowing",3,1948,2016,44
+"Rugby",1,1900,1901,45
+"Rugby",2,1908,1909,45
+"Rugby",3,1920,1924,45
+"Rugby Sevens",1,2016,2017,46
+"Sailing",1,1900,1901,47
+"Sailing",2,1908,1912,47
+"Sailing",3,1920,1936,47
+"Sailing",4,1948,2016,47
+"Shooting",1,1896,1900,48
+"Shooting",2,1906,1912,48
+"Shooting",3,1920,1924,48
+"Shooting",4,1932,1936,48
+"Shooting",5,1948,2016,48
+"Short Track Speed Skating",1,1992,2014,49
+"Skeleton",1,1928,1929,50
+"Skeleton",2,1948,1949,50
+"Skeleton",3,2002,2014,50
+"Ski Jumping",1,1924,1936,51
+"Ski Jumping",2,1948,2014,51
+"Snowboarding",1,1998,2014,52
+"Softball",1,1996,2008,53
+"Speed Skating",1,1924,1936,54
+"Speed Skating",2,1948,2014,54
+"Swimming",1,1896,1912,55
+"Swimming",2,1920,1936,55
+"Swimming",3,1948,2016,55
+"Synchronized Swimming",1,1984,2016,56
+"Table Tennis",1,1988,2016,57
+"Taekwondo",1,2000,2016,58
+"Tennis",1,1896,1912,59
+"Tennis",2,1920,1924,59
+"Tennis",3,1988,2016,59
+"Trampolining",1,2000,2016,60
+"Triathlon",1,2000,2016,61
+"Tug-Of-War",1,1900,1912,62
+"Tug-Of-War",2,1920,1921,62
+"Volleyball",1,1964,2016,63
+"Water Polo",1,1900,1912,64
+"Water Polo",2,1920,1936,64
+"Water Polo",3,1948,2016,64
+"Weightlifting",1,1896,1897,65
+"Weightlifting",2,1904,1906,65
+"Weightlifting",3,1920,1936,65
+"Weightlifting",4,1948,2016,65
+"Wrestling",1,1896,1897,66
+"Wrestling",2,1904,1912,66
+"Wrestling",3,1920,1936,66
+"Wrestling",4,1948,2016,66

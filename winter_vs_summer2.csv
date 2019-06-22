@@ -1,0 +1,217 @@
+region,id,amt_above_exp_sum_pct,never_won
+Afghanistan,004,0.150912457,0
+Albania,008,0,1
+Algeria,012,0.150912457,0
+American Samoa,016,0,1
+Andorra,020,0,1
+Angola,024,0,1
+Antigua,028,0,1
+Argentina,032,0.150912457,0
+Armenia,051,0.150912457,0
+Aruba,533,0,1
+Australia,036,0.126430348,0
+Austria,040,-0.517799199,0
+Azerbaijan,031,0.150912457,0
+Bahamas,044,0.150912457,0
+Bahrain,048,0.150912457,0
+Bangladesh,050,0,1
+Barbados,052,0.150912457,0
+Belarus,112,-0.000602694,0
+Belgium,056,0.121672691,0
+Belize,084,0,1
+Benin,204,0,1
+Bermuda,060,0.150912457,0
+Bhutan,064,0,1
+Boliva,068,0,1
+Bosnia and Herzegovina,070,0,1
+Botswana,072,0.150912457,0
+Brazil,076,0.150912457,0
+Brunei,096,0,1
+Bulgaria,100,0.124006627,0
+Burkina Faso,854,0,1
+Burundi,108,0.150912457,0
+Cambodia,116,0,1
+Cameroon,120,0.150912457,0
+Canada,124,-0.20698228,0
+Cape Verde,132,0,1
+Cayman Islands,136,0,1
+Central African Republic,140,0,1
+Chad,148,0,1
+Chile,152,0.150912457,0
+China,156,0.062283694,0
+Colombia,170,0.150912457,0
+Comoros,174,0,1
+Cook Islands,184,0,1
+Costa Rica,188,0.150912457,0
+Croatia,191,-0.099087543,0
+Cuba,192,0.150912457,0
+Curacao,531,0.150912457,0
+Cyprus,196,0.150912457,0
+Czech Republic,203,-0.040493793,0
+Democratic Republic of the Congo,180,0,1
+Denmark,208,0.146173121,0
+Djibouti,262,0.150912457,0
+Dominica,212,0,1
+Dominican Republic,214,0.150912457,0
+Ecuador,218,0.150912457,0
+Egypt,818,0.150912457,0
+El Salvador,222,0,1
+Equatorial Guinea,226,0,1
+Eritrea,232,0.150912457,0
+Estonia,233,-0.01981925,0
+Ethiopia,231,0.150912457,0
+Fiji,242,0.150912457,0
+Finland,246,-0.190913445,0
+France,250,0.026907906,0
+Gabon,266,0.150912457,0
+Gambia,270,0,1
+Georgia,268,0.150912457,0
+Germany,276,-0.062564327,0
+Ghana,288,0.150912457,0
+Greece,300,0.150912457,0
+Grenada,308,0.150912457,0
+Guam,316,0,1
+Guatemala,320,0.150912457,0
+Guinea,324,0,1
+Guinea-Bissau,624,0,1
+Guyana,328,0.150912457,0
+Haiti,332,0.150912457,0
+Honduras,340,0,1
+Hungary,348,0.139147751,0
+Iceland,352,0.150912457,0
+India,356,0.116429698,0
+Individual Olympic Athletes,NA,0.150912457,0
+Indonesia,360,0.150912457,0
+Iran,364,0.150912457,0
+Iraq,368,0.150912457,0
+Ireland,372,0.150912457,0
+Israel,376,0.150912457,0
+Italy,380,-0.00698228,0
+Ivory Coast,384,0.150912457,0
+Jamaica,388,0.150912457,0
+Japan,392,0.057551461,0
+Jordan,400,0.150912457,0
+Kazakhstan,398,0.060003366,0
+Kenya,404,0.150912457,0
+Kiribati,296,0,1
+Kosovo,NA,0.150912457,0
+Kuwait,414,0.150912457,0
+Kyrgyzstan,417,0.150912457,0
+Laos,418,0,1
+Latvia,428,-0.118318312,0
+Lebanon,422,0.150912457,0
+Lesotho,426,0,1
+Liberia,430,0,1
+Libya,434,0,1
+Liechtenstein,438,-0.849087543,0
+Lithuania,440,0.150912457,0
+Luxembourg,442,-0.099087543,0
+Macedonia,807,0.150912457,0
+Madagascar,450,0,1
+Malawi,454,0,1
+Malaysia,458,0.150912457,0
+Maldives,462,0,1
+Mali,466,0,1
+Malta,470,0,1
+Marshall Islands,584,0,1
+Mauritania,478,0,1
+Mauritius,480,0.150912457,0
+Mexico,484,0.150912457,0
+Micronesia,583,0,1
+Moldova,498,0.150912457,0
+Monaco,492,0.150912457,0
+Mongolia,496,0.150912457,0
+Montenegro,499,0.150912457,0
+Morocco,504,0.150912457,0
+Mozambique,508,0.150912457,0
+Myanmar,104,0,1
+Namibia,516,0.150912457,0
+Nauru,520,0,1
+Nepal,524,-0.849087543,0
+Netherlands,528,-0.119357813,0
+New Zealand,554,0.142509096,0
+Nicaragua,558,0,1
+Niger,562,0.150912457,0
+Nigeria,566,0.150912457,0
+North Korea,408,0.115198171,0
+Norway,578,-0.522083324,0
+Oman,512,0,1
+Pakistan,586,0.150912457,0
+Palau,585,0,1
+Palestine,275,0,1
+Panama,591,0.150912457,0
+Papua New Guinea,598,0,1
+Paraguay,600,0.150912457,0
+Peru,604,0.150912457,0
+Philippines,608,0.150912457,0
+Poland,616,0.086396328,0
+Portugal,620,0.150912457,0
+Puerto Rico,630,0.150912457,0
+Qatar,634,0.150912457,0
+Refugee Olympic Team,NA,0,1
+Republic of Congo,178,0,1
+Romania,642,0.147622983,0
+Russia,643,-0.026018649,0
+Rwanda,646,0,1
+Saint Kitts,659,0,1
+Saint Lucia,662,0,1
+Saint Vincent,670,0,1
+Samoa,882,0,1
+San Marino,674,0,1
+Sao Tome and Principe,678,0,1
+Saudi Arabia,682,0.150912457,0
+Senegal,686,0.150912457,0
+Serbia,688,0.114876421,0
+Seychelles,690,0,1
+Sierra Leone,694,0,1
+Singapore,702,0.150912457,0
+Slovakia,703,-0.000602694,0
+Slovenia,705,-0.243824385,0
+Solomon Islands,090,0,1
+Somalia,706,0,1
+South Africa,710,0.150912457,0
+South Korea,410,-0.016809062,0
+South Sudan,728,0,1
+Spain,724,0.137579124,0
+Sri Lanka,144,0.150912457,0
+Sudan,729,0.150912457,0
+Suriname,740,0.150912457,0
+Swaziland,748,0,1
+Sweden,752,-0.068265625,0
+Switzerland,756,-0.2450413,0
+Syria,760,0.150912457,0
+Taiwan,158,0.150912457,0
+Tajikistan,762,0.150912457,0
+Tanzania,834,0.150912457,0
+Thailand,764,0.150912457,0
+Timor-Leste,626,0,1
+Togo,768,0.150912457,0
+Tonga,776,0.150912457,0
+Trinidad,780,0.150912457,0
+Tunisia,788,0.150912457,0
+Turkey,792,0.150912457,0
+Turkmenistan,795,0,1
+Tuvalu,798,0,1
+Uganda,800,0.150912457,0
+UK,826,0.121532696,0
+Ukraine,804,0.098280878,0
+United Arab Emirates,784,0.150912457,0
+Uruguay,858,0.150912457,0
+USA,840,0.052081426,0
+Uzbekistan,860,0.121500692,0
+Vanuatu,548,0,1
+Venezuela,862,0.150912457,0
+Vietnam,704,0.150912457,0
+"Virgin Islands, British",092,0,1
+"Virgin Islands, US",850,0.150912457,0
+Yemen,887,0,1
+Zambia,894,0.150912457,0
+Zimbabwe,716,0.150912457,0
+Greenland,304,0,2
+Falkland Islands,238,0,2
+Somaliland,706,0,2
+Solomon Islands,090,0,2
+New Caledonia,540,0,2
+Vanuatu,548,0,2
+Western Sahara,732,0,2
+French Southern and Antarctic Lands,260,0,2
